@@ -1,5 +1,7 @@
 # HackLogic
 
+![Logo do HackLogic](assets/HackLogic.png)
+
 Jogo educativo em Python sobre logica proposicional, com interface grafica em
 CustomTkinter e tema inspirado em terminal hacker.
 
