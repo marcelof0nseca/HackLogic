@@ -30,3 +30,12 @@ python main.py
 - equivalencia logica
 - Leis de De Morgan
 - Modus Tollens
+
+## Grupo
+
+- Marcelo Fonseca
+- João Carlos Mafra
+- Luiz Vieira Carvalho
+- Vinícius Cezar
+- Eduardo Esteves
+- Marcio Rodriguez
